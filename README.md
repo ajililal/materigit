@@ -1,2 +1,2 @@
-# materi untuk aplikasi git
-## ditulis oleh tanjilal
+# Materi Untuk Aplikasi GIT
+## Ditulis Oleh Tanjilal
